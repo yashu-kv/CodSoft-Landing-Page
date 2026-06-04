@@ -151,3 +151,17 @@ footer{
 .btn{
     transition: 0.3s;
 }
+.contact{
+    padding:60px 20px;
+    text-align:center;
+    background:white;
+}
+
+.contact h2{
+    margin-bottom:20px;
+}
+
+.contact p{
+    margin:10px 0;
+    font-size:18px;
+}
